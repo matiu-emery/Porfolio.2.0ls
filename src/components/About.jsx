@@ -2,11 +2,11 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name='about' className='w-full h-screen bg-[#141414] text-gray-300'>
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
-            <p className='text-4xl font-bold inline border-b-4 border-pink-600'>
+            <p className='text-4xl font-bold inline border-b-4 border-purple-600'>
               About
             </p>
           </div>
@@ -14,14 +14,16 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Sai Kumar, nice to meet you. Please take a look around.</p>
+              <p>Kia Ora i am Matiu, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+         <p>
+        Kia Ora! I am a highly motivated and passionate professional with a curiosity to further my knowledge in the tech world. 
+        I am skilled in communication, collaboration, possess self-awareness, have an upbeat demeanor, a team player mentality, 
+        a sense of humor, and the willingness to further learn and grow my knowledge in the tech world. 
+        Recently completed an intensive software development training boot camp at Dev Academy, 
+        gaining hands-on experience in web development through pair programming and group projects utilizing agile methodologies and scrum practices.
+        </p>  
             </div>
           </div>
       </div>
