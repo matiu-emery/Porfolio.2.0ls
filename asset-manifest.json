@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Porfolio.2.0ls/static/css/main.220bc7f0.css",
+    "main.js": "/Porfolio.2.0ls/static/js/main.add81650.js",
+    "static/media/ME.png": "/Porfolio.2.0ls/static/media/ME.f8f9a7f0c4f26f3ead2b.png",
+    "static/media/home-page.png": "/Porfolio.2.0ls/static/media/home-page.fb5619261c22877eb70d.png",
+    "static/media/express.js.png": "/Porfolio.2.0ls/static/media/express.js.f5f7bbf22c3341139db9.png",
+    "static/media/react.png": "/Porfolio.2.0ls/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Porfolio.2.0ls/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Gmail-logo.png": "/Porfolio.2.0ls/static/media/Gmail-logo.7a9d42704c3138991813.png",
+    "static/media/github.png": "/Porfolio.2.0ls/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Porfolio.2.0ls/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Porfolio.2.0ls/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Porfolio.2.0ls/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/resumes.png": "/Porfolio.2.0ls/static/media/resumes.4619f1c0304291f7958e.png",
+    "static/media/javascript.png": "/Porfolio.2.0ls/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Porfolio.2.0ls/index.html",
+    "main.220bc7f0.css.map": "/Porfolio.2.0ls/static/css/main.220bc7f0.css.map",
+    "main.add81650.js.map": "/Porfolio.2.0ls/static/js/main.add81650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.220bc7f0.css",
+    "static/js/main.add81650.js"
+  ]
+}
