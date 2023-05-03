@@ -1,5 +1,4 @@
 import React from 'react';
-import magicakal from '../assets/projects/Magickal.png'
 import home from '../assets/projects/home-page.png'
 import github from '../assets/github.png'
 import cube from '../assets/projects/Cube.png'
